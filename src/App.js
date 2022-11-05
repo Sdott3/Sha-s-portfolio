@@ -1,6 +1,6 @@
 import React from "react";
-import Nav from "./components/Navbar/Navbar";
-import About from "./components/About/About";
+import Nav from "./components/Navbar";
+import About from "./components/About";
 
 export default function App () {
     return (

@@ -12,8 +12,8 @@ function Nav() {
                     <a href="#about" className="mr-5 hover:text-white">
                         About Me
                     </a>
-                    <a href="#projects" className="mr-5 hover:text-white">
-                        Projects
+                    <a href="#portfolio" className="mr-5 hover:text-white">
+                        Portfolio
                     </a>
                     <a href="#contact" className="mr-5 hover:text-white">
                         Contact Me

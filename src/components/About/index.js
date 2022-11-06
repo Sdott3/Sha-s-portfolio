@@ -9,6 +9,9 @@ function About () {
                 About Me
             </h1>
             <img src={avatar}  class="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto" alt="" width="384" height="512"></img>
+            <h2 class="pt-6 ml-3 text-xl text-center"> 
+                Full Stack Web Developer 
+            </h2>
             <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
                 <p class="text-lg font-small">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum turpis sed ex condimentum molestie. Mauris condimentum lectus 
